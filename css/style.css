@@ -36,7 +36,7 @@ body
 .nav_bg
 {
     background-color: var(--AzulCeleste3);
-    border-bottom-right-radius: 2rem;
+    border-bottom-right-radius: 2rems;
     border-bottom-left-radius: 2rem;
 }
 
